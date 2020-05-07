@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'clow',
   packages = ['clow'],
-  version = '0.3',
+  version = '0.4',
   license='MIT',
   description = 'Clow Language',
   author = 'Yuri Rapoport',
   author_email = 'yuri.rapoport@gmail.com',
   url = 'https://github.com/yrapop01/clow',
-  download_url = 'https://github.com/yrapop01/clow/archive/v_03.tar.gz',
+  download_url = 'https://github.com/yrapop01/clow/archive/v_04.tar.gz',
   keywords = ['STATIC', 'TYPES', 'TYPING', 'INFERENCE'],
   classifiers=[
     'Development Status :: 3 - Alpha',      # "3 - Alpha", "4 - Beta" or "5 - Production/Stable"
