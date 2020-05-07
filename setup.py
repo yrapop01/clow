@@ -1,16 +1,19 @@
 from setuptools import setup
 import os
 
+VERSION = '0.5'
+VERS = VERSION.replace('.', '')
+
 setup(
     name = 'clow',
     packages = ['clow'],
-    version = '0.5',
+    version = VERSION,
     license = 'MIT',
     description = 'Clow Language',
     author = 'Yuri Rapoport',
     author_email = 'yuri.rapoport@gmail.com',
     url = 'https://github.com/yrapop01/clow',
-    download_url = 'https://github.com/yrapop01/clow/archive/v_05.tar.gz',
+    download_url = f'https://github.com/yrapop01/clow/archive/clow_{VERS}.tar.gz',
     keywords = ['STATIC', 'TYPES', 'TYPING', 'INFERENCE'],
     install_requires = ['typehint'],
     classifiers = [
