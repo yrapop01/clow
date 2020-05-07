@@ -8,7 +8,7 @@ setup(
   author = 'Yuri Rapoport',
   author_email = 'yuri.rapoport@gmail.com',
   url = 'https://github.com/yrapop01/clow',
-  download_url = 'https://github.com/yrapop01/clow/archive/v_01.tar.gz',
+  download_url = 'https://github.com/yrapop01/clow/archive/v_03.tar.gz',
   keywords = ['STATIC', 'TYPES', 'TYPING', 'INFERENCE'],
   classifiers=[
     'Development Status :: 3 - Alpha',      # "3 - Alpha", "4 - Beta" or "5 - Production/Stable"
