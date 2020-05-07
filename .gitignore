@@ -1,2 +1,6 @@
 dist/*
 MANIFEST
+MANIFEST.in
+.ipynb_checkpoints
+
+typehint
