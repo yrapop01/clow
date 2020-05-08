@@ -1,2 +1,2 @@
 # clow
-![](img/river-dam-publicdomainvectors.org.eps?raw=true)
+![](img/river-dam-publicdomainvectors.org.svgraw=true)
