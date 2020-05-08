@@ -13,7 +13,7 @@ setup(
     author = 'Yuri Rapoport',
     author_email = 'yuri.rapoport@gmail.com',
     url = 'https://github.com/yrapop01/clow',
-    download_url = f'https://github.com/yrapop01/clow/archive/clow_{VERS}.tar.gz',
+    download_url = f'https://github.com/yrapop01/clow/archive/v_{VERS}.tar.gz',
     keywords = ['STATIC', 'TYPES', 'TYPING', 'INFERENCE'],
     install_requires = ['typehint'],
     classifiers = [
